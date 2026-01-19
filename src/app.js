@@ -56,7 +56,6 @@ function renderBridge(bridge) {
 
     <div class="row">
       <span class="pill">Ruta asignada</span>
-      <span class="small">Puedes ajustar estos mensajes sin tocar el código.</span>
     </div>
   `;
 }
