@@ -42,7 +42,7 @@
     {
       "id": "q4_level",
       "title": "¿Con cuál de estas frases se identifica más?",
-      "help": "Esto nos ayuda a elegir si su ruta será guiada en español o totalemente en inglés",
+      "help": "Esto nos ayuda a elegir si su ruta será guiada en español o totalmente en inglés",
       "options": [
         {
           "id": "basic",
