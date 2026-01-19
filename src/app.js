@@ -25,7 +25,6 @@ function renderQuestion({ title, help, options }, qIndex, total, onPick) {
     <div class="grid" id="options"></div>
     <div class="row">
       <span class="pill">Paso ${qIndex + 1} de ${total}</span>
-      <span class="small">Responde con tu mejor estimación.</span>
     </div>
   `;
 
