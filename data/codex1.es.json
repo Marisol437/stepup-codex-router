@@ -1,12 +1,12 @@
 {
   "version": "1.0.0",
   "title": "Ruta inicial",
-  "subtitle": "Responde 4 preguntas y te llevamos al camino más corto.",
+  "subtitle": "Responda 4 preguntas y lo llevaremos a lo que mejor se ajuste a sus necesidades.",
   "questions": [
     {
       "id": "q1_identity",
-      "title": "¿Cuál de estas opciones te describe mejor?",
-      "help": "Esto ajusta el tono y el contexto (no es un test).",
+      "title": "¿Cuál de estas opciones lo describe mejor?",
+      "help": "",
       "options": [
         { "id": "student", "label": "Soy estudiante" },
         { "id": "professional", "label": "Soy profesional" },
@@ -17,8 +17,8 @@
     },
     {
       "id": "q2_goal",
-      "title": "¿Para qué necesitas el inglés en este momento?",
-      "help": "Elegimos una ruta según tu necesidad inmediata.",
+      "title": "¿Para qué necesita el inglés en este momento?",
+      "help": "Elegimos una ruta según su necesidad inmediata.",
       "options": [
         { "id": "exam", "label": "Para un examen o certificación" },
         { "id": "work", "label": "Para mi trabajo o profesión" },
@@ -29,8 +29,8 @@
     },
     {
       "id": "q3_blocker",
-      "title": "¿Qué es lo que más se te dificulta en inglés?",
-      "help": "Elige el bloqueo principal (uno).",
+      "title": "¿Qué es lo que más se le dificulta en inglés?",
+      "help": "Elija el bloqueo principal.",
       "options": [
         { "id": "vocabulary", "label": "Vocabulario" },
         { "id": "grammar", "label": "Gramática" },
@@ -41,8 +41,8 @@
     },
     {
       "id": "q4_level",
-      "title": "¿Con cuál de estas frases te identificas más?",
-      "help": "Esto nos ayuda a elegir si tu ruta será guiada (ES), mixta o EN funcional.",
+      "title": "¿Con cuál de estas frases se identifica más?",
+      "help": "Esto nos ayuda a elegir si su ruta será guiada en español o totalemente en inglés",
       "options": [
         {
           "id": "basic",
