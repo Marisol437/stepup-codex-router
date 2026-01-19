@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "routes": {
+    "pronunciation_foundations": {
+      "title": "Tu camino más corto empieza por Pronunciación",
+      "summary": "Si la pronunciación no es clara, el speaking y el listening se bloquean. Aquí construyes una base práctica y visible.",
+      "ctaLabel": "Ir a Pronunciation Foundations",
+      "href": "./routes/pronunciation-foundations.html"
+    },
+    "listening_training": {
+      "title": "Tu camino más corto empieza por Listening",
+      "summary": "Cuando el oído mejora, hablar se vuelve más fácil. Entrenas comprensión del inglés hablado con práctica guiada.",
+      "ctaLabel": "Ir a Listening Training",
+      "href": "./routes/listening-training.html"
+    },
+    "confident_speech": {
+      "title": "Tu camino más corto es Coaching: Confident Speech",
+      "summary": "No necesitas más reglas: necesitas estructura, práctica intencional y feedback para sonar claro y profesional.",
+      "ctaLabel": "Ir a Confident Speech Program",
+      "href": "./routes/confident-speech.html"
+    },
+    "ebooks": {
+      "title": "Tu camino más corto empieza por Inglés Funcional",
+      "summary": "Aprende solo lo que realmente usas en tu contexto: frases, vocabulario y plantillas prácticas.",
+      "ctaLabel": "Ver guías / recursos",
+      "href": "./routes/ebooks.html"
+    },
+    "diagnostic": {
+      "title": "Primero: Diagnóstico específico",
+      "summary": "Antes de prepararte para un examen, identifica exactamente qué ajustar (pronunciación, listening, claridad).",
+      "ctaLabel": "Ir al Diagnóstico",
+      "href": "./routes/diagnostic.html"
+    }
+  }
+}
