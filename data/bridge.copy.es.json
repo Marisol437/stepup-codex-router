@@ -1,34 +1,34 @@
 {
   "version": "1.0.0",
   "routes": {
-    "pronunciation_foundations": {
-      "title": "Lo que más le conviene en este momento es mejorar su Pronunciación",
-      "summary": "Si la pronunciación no es clara, el speaking y el listening se bloquean. Aquí construye una base práctica y visible.",
-      "ctaLabel": "Ir a Pronunciation Foundations",
-      "href": "https://stepuplanguages.com/pronunciation-foundations/"
+    "Diagnóstico de nivel": {
+      "title": "Le recomendamos tomar una evaluación para definir su nivel actual",
+     
+      "ctaLabel": "Ir a Diagnóstico de nivel",
+      "href": "https://stepuplanguages.com/diagnostico-de-nivel/"
     },
-    "listening_training": {
-      "title": "Su camino mejor camino empieza por Listening",
-      "summary": "Cuando el oído mejora, hablar se vuelve más fácil. Entrenas comprensión del inglés hablado con práctica guiada.",
-      "ctaLabel": "Ir a Listening Training",
-      "href": "https://stepuplanguages.com/listening-training-program/"
+    "Diagnóstico de nivel": {
+      "title": "Le recomendamos tomar una evaluación para definir su nivel actual",
+     
+      "ctaLabel": "Ir a Diagnóstico de nivel",
+      "href": "https://stepuplanguages.com/diagnostico-de-nivel/"
     },
-    "confident_speech": {
-      "title": "Su camino más certero es Coaching: Confident Speech",
-      "summary": "No necesita más reglas: necesitas estructura, práctica intencional y feedback para sonar claro y profesional.",
-      "ctaLabel": "Ir a Confident Speech Program",
-      "href": "https://stepuplanguages.com/confident-speech-program/"
+    "Diagnóstico de nivel": {
+      "title": "Le recomendamos tomar una evaluación para definir su nivel actual",
+     
+      "ctaLabel": "Ir a Diagnóstico de nivel",
+      "href": "https://stepuplanguages.com/diagnostico-de-nivel/"
     },
-    "ebooks": {
-      "title": "Su mejor camino empieza por Inglés Funcional",
-      "summary": "Aprenda lo que realmente usa en tu contexto: frases, vocabulario y plantillas prácticas.",
-      "ctaLabel": "Ver guías / recursos",
-      "href": "https://stepuplanguages.com/centro-de-recursos/"
+     "Diagnóstico de nivel": {
+      "title": "Le recomendamos tomar una evaluación para definir su nivel actual",
+     
+      "ctaLabel": "Ir a Diagnóstico de nivel",
+      "href": "https://stepuplanguages.com/diagnostico-de-nivel/"
     },
-    "diagnostic": {
-      "title": "Primero: Diagnóstico específico",
-      "summary": "Antes de prepararse para un examen, identifique exactamente qué ajustar (pronunciación, listening, claridad).",
-      "ctaLabel": "Ir al Diagnóstico",
+    "Diagnóstico de nivel": {
+      "title": "Le recomendamos tomar una evaluación para definir su nivel actual",
+     
+      "ctaLabel": "Ir a Diagnóstico de nivel",
       "href": "https://stepuplanguages.com/diagnostico-de-nivel/"
     }
   }
