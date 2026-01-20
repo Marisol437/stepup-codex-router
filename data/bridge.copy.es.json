@@ -1,6 +1,5 @@
 {
   "version": "1.0.0",
-  "routes": {
     "Diagnóstico de nivel": {
       "title": "Le recomendamos realizar una evaluación para definir su nivel actual.",
       "ctaLabel": "Ir al diagnóstico de nivel",
