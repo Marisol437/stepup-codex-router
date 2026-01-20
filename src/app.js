@@ -51,7 +51,6 @@ function renderBridge(bridge) {
 
     <div class="row">
       <a class="cta" href="${bridge.href}">${bridge.ctaLabel}</a>
-      <a class="cta secondary" href="https://stepuplanguages.com/">Volver al inicio</a>
     </div>
 
     <div class="row">
