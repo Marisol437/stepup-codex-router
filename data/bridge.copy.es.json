@@ -1,9 +1,23 @@
 {
   "version": "1.0.0",
-    "Diagnóstico de nivel": {
-      "title": "Le recomendamos realizar una evaluación para definir su nivel actual.",
-      "ctaLabel": "Ir al diagnóstico de nivel",
+  "routes": {
+    "pronunciation_foundations": {
+      "title": "Primero: diagnóstico de nivel",
+      "summary": "Realice una evaluación breve para estimar su nivel y recibir una recomendación precisa.",
+      "ctaLabel": "Iniciar diagnóstico",
       "href": "https://stepuplanguages.com/diagnostico-de-nivel/"
-    }
-  }
-}
+    },
+    "listening_training": {
+      "title": "Primero: diagnóstico de nivel",
+      "summary": "Realice una evaluación breve para estimar su nivel y recibir una recomendación precisa.",
+      "ctaLabel": "Iniciar diagnóstico",
+      "href": "https://stepuplanguages.com/diagnostico-de-nivel/"
+    },
+    "confident_speech": {
+      "title": "Primero: diagnóstico de nivel",
+      "summary": "Realice una evaluación breve para estimar su nivel y recibir una recomendación precisa.",
+      "ctaLabel": "Iniciar diagnóstico",
+      "href": "https://stepuplanguages.com/diagnostico-de-nivel/"
+    },
+    "ebooks": {
+      "title": "Primero: diagnóstico de nivel",
