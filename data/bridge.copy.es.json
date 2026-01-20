@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "routes": {
     "Diagnóstico de nivel": {
-      "title": "Le recomendamos tomar una evaluación para definir su nivel actual",
-     
-      "ctaLabel": "Ir a Diagnóstico de nivel",
+      "title": "Le recomendamos realizar una evaluación para definir su nivel actual.",
+      "ctaLabel": "Ir al diagnóstico de nivel",
       "href": "https://stepuplanguages.com/diagnostico-de-nivel/"
-    },
-   
+    }
+  }
+}
