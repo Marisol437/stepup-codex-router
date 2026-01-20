@@ -11,13 +11,13 @@
       "title": "Su camino mejor camino empieza por Listening",
       "summary": "Cuando el oído mejora, hablar se vuelve más fácil. Entrenas comprensión del inglés hablado con práctica guiada.",
       "ctaLabel": "Ir a Listening Training",
-      "href": "./routes/listening-training.html"
+      "href": "https://stepuplanguages.com/listening-training-program/"
     },
     "confident_speech": {
       "title": "Su camino más certero es Coaching: Confident Speech",
       "summary": "No necesita más reglas: necesitas estructura, práctica intencional y feedback para sonar claro y profesional.",
       "ctaLabel": "Ir a Confident Speech Program",
-      "href": "./routes/confident-speech.html"
+      "href": "https://stepuplanguages.com/confident-speech-program/"
     },
     "ebooks": {
       "title": "Su mejor camino empieza por Inglés Funcional",
@@ -29,7 +29,7 @@
       "title": "Primero: Diagnóstico específico",
       "summary": "Antes de prepararse para un examen, identifique exactamente qué ajustar (pronunciación, listening, claridad).",
       "ctaLabel": "Ir al Diagnóstico",
-      "href": "./routes/diagnostic.html"
+      "href": "https://stepuplanguages.com/diagnostico-de-nivel/"
     }
   }
 }
