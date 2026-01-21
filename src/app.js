@@ -53,9 +53,6 @@ function renderBridge(bridge) {
       <a class="cta" href="${bridge.href}">${bridge.ctaLabel}</a>
     </div>
 
-    <div class="row">
-      <span class="pill">Ruta asignada</span>
-    </div>
   `;
 }
 
